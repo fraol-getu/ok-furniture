@@ -1,0 +1,78 @@
+.f-wrapper{
+    background-color: black;
+     
+     
+    
+    }
+
+
+.f-container{
+    gap: 6rem;
+  justify-content: center;
+  display: flex;
+   align-items: center;
+}
+
+    .f-left{
+gap: 2rem;
+
+
+
+
+}
+.f-icons{
+    gap: 1rem;
+
+
+
+}
+
+.f-center{
+    gap: .2rem;
+}
+.f-center-icon{
+    gap: 1rem;
+}
+.f-p{
+    position: relative;
+     
+}
+.f-p::after{
+    content:"" ;
+     height: 2px;
+      width: 300%;
+      background-color: var(--primary);
+      left: 0;
+      position: absolute;
+      bottom: -1%;
+    }
+
+    .f-end{
+        gap: 2.8rem;
+       padding-bottom: .8rem;
+    }
+
+    .ok{
+        padding-bottom: .6rem;
+    }
+
+
+    @media (max-width: 860px) {
+    .f-container{
+    display: flex;
+    align-items: center;
+     justify-content: center;
+      flex-direction: column;
+    
+    }
+
+.f-left{
+display: flex;
+align-items: center;
+ justify-content: center;
+  flex-wrap: wrap;
+}
+
+
+
+    }

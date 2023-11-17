@@ -1,0 +1,46 @@
+
+.shop-wrapper{
+    padding-top: 5rem;
+}
+
+.shop-container{
+    gap: 4rem;
+
+}
+
+.shop-display{
+    gap: 1rem;
+}
+
+.shop-products{
+    gap: 2rem;
+}
+.a-center {
+    width: 25%;
+}
+@media (max-width: 840px) {
+.shop-container{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+
+}
+
+    .shop-products{
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+
+.a-center{
+    gap: 1rem;
+}
+
+
+
+
+}

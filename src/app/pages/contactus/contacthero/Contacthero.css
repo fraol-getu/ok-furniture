@@ -1,0 +1,53 @@
+
+
+.ph-container{
+    overflow-x: hidden;
+    max-width: 100%;
+    }
+    
+    .ph-bottom{
+        gap: 2rem;
+    }
+    
+    .sp{
+        color: #E5BA73;
+        font-size: 4rem;
+          font-weight: bold;
+          
+        }
+    
+    /* .sp-container{
+      width: 65%;
+      height: 70%;
+    background-color: var(--green);
+      text-align: center;
+    }
+    .sp-container:hover{
+      cursor: pointer;
+       transform: scale(1.1);
+    } */
+      
+    .s-text{
+        gap: 1rem;
+        padding-bottom: 10rem;
+      }
+      .sh1{
+    
+        color: #E5BA73;
+        font-weight: bold;
+        font-size: 7rem;
+         
+        
+      }
+
+
+
+
+      @media (max-width: 740px){
+
+.sh1{
+  font-size: 5rem;
+}
+
+
+      }

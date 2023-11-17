@@ -1,0 +1,54 @@
+
+
+.shop-wrapper{
+  max-width: 100%;
+  overflow-x: hidden;
+overflow-y: hidden;
+}
+
+.ph-bottom{
+    gap: 2rem;
+}
+
+.shop{
+    color: #E5BA73;
+    font-size: 1.5rem;
+      font-weight: bold;
+       
+    }
+
+.sp-container{
+  width: 50%;
+  height: 90%;
+background-color: var(--green);
+  text-align: center;
+}
+.sp-container:hover{
+  cursor: pointer;
+
+
+  }
+  
+.s-text{
+    gap: .5rem;
+    padding-bottom: 10rem;
+  }
+  .sh1{
+
+    color: #E5BA73;
+    font-weight: bold;
+    font-size: 7rem;
+    
+    
+
+
+  }
+
+  @media (max-width: 740px){
+
+    .shop{
+      font-size: 0.9rem;
+    }
+    
+    
+          }

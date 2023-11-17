@@ -1,0 +1,149 @@
+
+.c-wrapper{
+    padding-top: 5rem;
+}
+
+.c-Text {
+    color: rgb(140 139 139); ;
+    font-size: .9rem;
+    line-height: 1rem;
+     font-weight: 500;
+
+}
+
+
+.c-top{
+    display: flex;
+     justify-content: center;
+     align-items: center;
+     gap: 2rem;
+}
+
+
+.c-inner{
+    display: flex;
+     justify-content: center;
+     align-items: center;
+     gap: 1rem;
+}
+
+
+
+.c-container{
+    gap: 3rem;
+   padding-left: 17%;
+}
+
+
+.c-innercontainer{
+    width: 25%;
+     height: 3rem;
+     border-radius: .5rem .5rem .5rem .5rem;
+     background-color: var(--green);
+       text-align: center;
+    
+    }
+
+
+    .c-innercontainer0{
+        width: 30%;
+         height: 3rem;
+         border-radius: .5rem .5rem .5rem .5rem;
+         background-color: var(--green);
+           text-align: center;
+        
+        }
+    
+    
+    
+    .c1-Text {
+        color: var(--secondary);
+        font-size: 1rem;
+        line-height: 1.5rem;
+         font-weight: 500;
+      }
+    .location{
+    color: white;
+    position: relative;
+    top: 30%;
+}
+.c-middle{
+    gap: 1.5rem;
+     
+}
+.c-middle-inner{
+    gap: 13rem;
+}
+.c-middle-left{
+    gap: 0.09rem;
+}
+.c-input{
+    width: 200%;
+    height: 3rem;
+}
+
+.c-input1{
+    width: 427%;
+    height: 3rem;
+}
+
+.c-input2{
+    width: 427%;
+    height: 7rem;
+   
+}
+
+
+
+@media (max-width: 860px) {
+
+    .c-top{
+        display: flex;
+         justify-content: flex-start;
+         align-items: center;
+         flex-direction: column;
+         gap: 2rem;
+    }
+
+   .c-middle-inner{
+    display: flex;
+   align-items: center;
+   justify-content: flex-start;
+    flex-direction: column;
+     gap: 2rem;
+}
+.c-input{
+
+    width: 130%;
+    height: 2rem;
+}
+
+.c-input1{
+    width: 130%;
+}
+
+.c-input2{
+    width: 130%;
+}
+.ai{
+    padding-right: .1rem;
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+

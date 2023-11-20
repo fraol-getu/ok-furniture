@@ -64,6 +64,11 @@ padding-left: 20%;
 }
 .p-center{
     padding-top: 2rem;
+   gap:rem;
+}
+.p-inner{
+    gap: 1rem;
+
 }
 
 

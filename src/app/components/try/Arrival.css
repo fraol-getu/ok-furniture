@@ -22,7 +22,7 @@
 
   .swiper-pagination{
     position: relative;
-     top: 4rem;
+     padding-top: 1rem;
       text-align: center;
     }
 
@@ -30,7 +30,7 @@
 
 .swiper-pagination{
 
-top: 8rem;
+padding-top: 1.5rem;
 
 }
 

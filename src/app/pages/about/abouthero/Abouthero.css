@@ -35,10 +35,17 @@
     
         color:  #E5BA73;
         font-weight: bold;
-        font-size: 8rem;
+        font-size: 7rem;
          font-family: Arial, Helvetica, sans-serif;
         
       }
 
-    
+      @media (max-width: 740px){
+
+        .sh1{
+          font-size: 5rem;
+        }
+        
+        
+              }
 

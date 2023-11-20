@@ -25,7 +25,7 @@ const Header = () => {
 
     < div className="h-container paddings innerWidth ">
      
-      <Image src={Logo} width={50}  />
+      <Image src={Logo} alt='logo' width={50}  />
  <OutsideClickHandler onOutsideClick={() => {setMenuOpen(false)}}>     
  <ul className={menuOpen ? "h-mobile-menu" : "h-menu"}>
       <li className='h-items'>

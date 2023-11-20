@@ -25,7 +25,7 @@ const Subscribe = () => {
 
 </div>  
 </div>
-         <Image src={Su} width={400} height={500} className='s-image'/>
+         <Image src={Su} alt='su' width={400} height={500} className='s-image'/>
 
 
         </div>

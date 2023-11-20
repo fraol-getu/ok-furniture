@@ -31,7 +31,7 @@ const Testi = () => {
   
   onSlideChange={() => console.log('slide change')}
   onSwiper={(swiper) => console.log(swiper)}
-   
+   tes
 
 
 >
@@ -43,7 +43,7 @@ const Testi = () => {
 <p className='secondaryText3 t' >OK Furniture's product range includes furniture for all areas of the home, including the bedroom, living room, kitchen, dining room, and entertainment area. The company also offers a wide range of appliances, including refrigerators, washing machines, stoves, and dishwashers. OK Furniture is committed to providing its customers with the best possible value for money, and it regularly offers discounts and promotions on its products.
 </p>
 <div className="t-center flexColCenter">
-<Image src={Tes} width={50} />
+<Image src={Tes} alt='tes' width={50} />
  <span className='secondaryText'> john alex </span>
   <span className='secondaryText'>ceo co-Founder, tecno </span>
 </div>
@@ -58,7 +58,7 @@ const Testi = () => {
 <p className='secondaryText3 t' >OK Furniture's product range includes furniture for all areas of the home, including the bedroom, living room, kitchen, dining room, and entertainment area. The company also offers a wide range of appliances, including refrigerators, washing machines, stoves, and dishwashers. OK Furniture is committed to providing its customers with the best possible value for money, and it regularly offers discounts and promotions on its products.
 </p>
 <div className="t-center flexColCenter">
-<Image src={Tes} width={50} />
+<Image src={Tes} alt='tes' width={50} />
  <span className='secondaryText'> john alex </span>
   <span className='secondaryText'>ceo co-Founder, tecno </span>
 </div>
@@ -74,7 +74,7 @@ const Testi = () => {
 <p className='secondaryText3 t' >OK Furniture's product range includes furniture for all areas of the home, including the bedroom, living room, kitchen, dining room, and entertainment area. The company also offers a wide range of appliances, including refrigerators, washing machines, stoves, and dishwashers. OK Furniture is committed to providing its customers with the best possible value for money, and it regularly offers discounts and promotions on its products.
 </p>
 <div className="t-center flexColCenter">
-<Image src={Tes} width={50} />
+<Image src={Tes} alt='tes' width={50} />
  <span className='secondaryText'> john alex </span>
   <span className='secondaryText'>ceo co-Founder, tecno </span>
 </div>

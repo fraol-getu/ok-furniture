@@ -36,14 +36,14 @@ const Price = () => {
        </div>
       </div>
       <div className='flexColCenter p-center'>
-     <Link href='/shop'> <Image src={Price1} alt='price6' className='p-image'/></Link>
+     <Link href='/shop'> <Image src={Price1} alt='price1' className='p-image'/></Link>
       <div className="p-inner flexColCenter">
        <h2 className='secondaryText1'>zegba sofa</h2>
        <span className='secondaryText1'>$78.00</span>
        </div>
       </div>
       <div className='flexColCenter p-center'>
-      <Link href='/shop'><Image src={price2} alt='price' className='p-image'/></Link>
+      <Link href='/shop'><Image src={price2} alt='pric2' className='p-image'/></Link>
       <div className="p-inner flexColCenter">
        <h2 className='secondaryText1'>tsde sofa</h2>
        <span className='secondaryText1'>$50.00</span>

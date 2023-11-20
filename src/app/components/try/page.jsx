@@ -54,7 +54,7 @@ navigation
   >
     <SwiperSlide>
     <div className='flexColCenter a-center'>  
-         <Image src={A1} width={350} height={200}/>
+         <Image src={A1} alt='alon sofa' width={350} height={200}/>
          
          <span className='secondaryText1'>salon sofa</span>
           <span className='secondaryText1'>$80</span>
@@ -62,7 +62,7 @@ navigation
 </SwiperSlide>
 <SwiperSlide>
 <div className='flexColCenter a-center'>  
-         <Image src={A2} width={350} height={200}/>
+         <Image src={A2} alt='biro sofa' width={350} height={200}/>
          
          <span className='secondaryText1'>biro sofa</span>
           <span className='secondaryText1'>$80</span>
@@ -70,7 +70,7 @@ navigation
 </SwiperSlide>
 <SwiperSlide>
 <div className='flexColCenter a-center'>  
-         <Image src={A3} width={350} height={200}/>
+         <Image src={A3} alt='cafe sofa' width={350} height={200}/>
          
          <span className='secondaryText1'>cafe sofa</span>
           <span className='secondaryText1'>$80</span>
@@ -78,7 +78,7 @@ navigation
 </SwiperSlide>
 <SwiperSlide>
 <div className='flexColCenter a-center'>  
-         <Image src={A4} width={350} height={200}/>
+         <Image src={A4} alt='dinner chair' width={350} height={200}/>
          
          <span className='secondaryText1'>dinner chair</span>
           <span className='secondaryText1'>$80</span>
@@ -87,7 +87,7 @@ navigation
   
 <SwiperSlide>
     <div className='flexColCenter a-center'>  
-         <Image src={A5} width={350} height={200}/>
+         <Image src={A5} alt='bed ampole' width={350} height={200}/>
          
          <span className='secondaryText1'>bed ampole</span>
           <span className='secondaryText1'>$80</span>
@@ -95,7 +95,7 @@ navigation
 </SwiperSlide>
 <SwiperSlide>
 <div className='flexColCenter a-center'>  
-         <Image src={A6} width={350} height={200}/>
+         <Image src={A6} alt='tv stand' width={350} height={200}/>
          
          <span className='secondaryText1'>tv stand</span>
           <span className='secondaryText1'>$80</span>
@@ -103,7 +103,7 @@ navigation
 </SwiperSlide>
 <SwiperSlide>
 <div className='flexColCenter a-center'>  
-         <Image src={A7} width={350} height={200}/>
+         <Image src={A7} alt='salon chair' width={350} height={200}/>
          
          <span className='secondaryText1'>salon chair</span>
           <span className='secondaryText1'>$80</span>
@@ -111,7 +111,7 @@ navigation
 </SwiperSlide>
 <SwiperSlide>
 <div className='flexColCenter a-center'>  
-         <Image src={A8} width={350} height={200}/>
+         <Image src={A8} alt='sentetic sofa' width={350} height={200}/>
          
          <span className='secondaryText1'>sentetic sofa</span>
           <span className='secondaryText1'>$80</span>

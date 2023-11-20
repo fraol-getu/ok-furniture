@@ -40,7 +40,7 @@ const Testi = () => {
 <div className="t-top flexColCenter">
 
 <h2 className='primaryText'>Testimonials</h2>
-<p className='secondaryText3 t' >OK Furniture's product range includes furniture for all areas of the home, including the bedroom, living room, kitchen, dining room, and entertainment area. The company also offers a wide range of appliances, including refrigerators, washing machines, stoves, and dishwashers. OK Furniture is committed to providing its customers with the best possible value for money, and it regularly offers discounts and promotions on its products.
+<p className="secondaryText3 t" >OK Furniture's product range includes furniture for all areas of the home, including the bedroom, living room, kitchen, dining room, and entertainment area. The company also offers a wide range of appliances, including refrigerators, washing machines, stoves, and dishwashers. OK Furniture is committed to providing its customers with the best possible value for money, and it regularly offers discounts and promotions on its products.
 </p>
 <div className="t-center flexColCenter">
 <Image src={Tes} alt='tes' width={50} />
@@ -71,7 +71,7 @@ const Testi = () => {
 <div className="t-top flexColCenter">
 
 <h2 className='primaryText'>Testimonials</h2>
-<p className='secondaryText3 t' >OK Furniture's product range includes furniture for all areas of the home, including the bedroom, living room, kitchen, dining room, and entertainment area. The company also offers a wide range of appliances, including refrigerators, washing machines, stoves, and dishwashers. OK Furniture is committed to providing its customers with the best possible value for money, and it regularly offers discounts and promotions on its products.
+<p className="secondaryText3 t" >OK Furniture's product range includes furniture for all areas of the home, including the bedroom, living room, kitchen, dining room, and entertainment area. The company also offers a wide range of appliances, including refrigerators, washing machines, stoves, and dishwashers. OK Furniture is committed to providing its customers with the best possible value for money, and it regularly offers discounts and promotions on its products.
 </p>
 <div className="t-center flexColCenter">
 <Image src={Tes} alt='tes' width={50} />

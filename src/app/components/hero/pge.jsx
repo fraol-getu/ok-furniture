@@ -9,6 +9,7 @@ import './Hero.css'
 import HeroImage from '../../../../public/hero-image.png'
  import Link from 'next/link'
 import Image from 'next/image'
+
 const Hero = () => {
   return (
     <section className="hero-wrapper">
